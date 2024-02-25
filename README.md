@@ -5,7 +5,7 @@ To achieve this integration, simply add the decorator '\@pytest_execute' above a
 
 At present, this code serves as a proof of concept but is alrady usable.
 
-PyTest's console logs are captured as informational messages in Robot Framework logs. If any test in PyTest fails, the entire keyword in Robot Framework fails.
+Pytest's console logs are captured as informational messages in Robot Framework logs. If any test in pytest fails, the entire keyword in Robot Framework fails.
 
 It works with functions and methods too, as long as they follow the naming conventions required by pytest.
 
@@ -16,7 +16,7 @@ Robot Framework file:
 #The Example of usage  - suite_name.robot file
 
 *** Settings ***
-Documentation     Proof of Concept integration PyTest under hood of Roboto Framework
+Documentation     Proof of Concept integration pytest under the hood of Robot Framework
 Library  TestExperiment.py
 
 
@@ -33,7 +33,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-import pytestinrobotframework #EXAMPLE USAGE - must import!
+import pytest_in_robotframework #EXAMPLE USAGE - must import!
 
 
 
@@ -74,5 +74,7 @@ class TestExperiment: #EXAMPLE USAGE - must have this name!
 
 ## Future planed Improvments 
  Enhance pytest logging experiance within Robot Framework (similar structure to pytest_robotframework / pytest-robotframework)
+
  Ensure compatibility with the Hypothesis package.
+
  Add posibility to rename keyword for Robot Framework (RF supports this, but it may not currently work with Pytest)

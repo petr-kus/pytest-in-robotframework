@@ -1,4 +1,5 @@
-python setup.py sdist
-twine upload dist/pytest-in-robotframework-0.0.6.tar.gz
+Remove-Item -Path dist\* -Recurse -Force
+python setup.py sdist bdist_wheel
+twine upload dist/*
 
 #This could be done by more tools. One is Poetry.
