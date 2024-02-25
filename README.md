@@ -33,7 +33,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-import pytest_in_robotframework #EXAMPLE USAGE - must import!
+from pytest_in_robotframework import pytest_execute #EXAMPLE USAGE - must import!
 
 
 

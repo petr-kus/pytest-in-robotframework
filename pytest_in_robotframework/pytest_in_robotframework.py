@@ -2,6 +2,7 @@ import pytest
 from robot.libraries.BuiltIn import BuiltIn
 import pytest_is_running 
 import decorator
+import sys
 from robot.api import logger
 
 def  frameworks_info():
