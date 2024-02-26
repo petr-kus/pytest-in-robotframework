@@ -34,8 +34,8 @@ def rf_keyword_2():
 #usage with methods 
 class TestMyWorld: 
 
-    @pytest_execute(self)
-    def test_my_method:
+    @pytest_execute
+    def test_my_method(self):
         assert  True
 
     def rf_keyword_1(self):

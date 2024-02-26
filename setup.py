@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
 name='pytest-in-robotframework',
-version='0.0.9',
+version='0.0.12',
 author='Petr Kus',
 author_email='petrkus@email.cz',
 description="The extension enables easy execution of pytest tests within the Robot Framework environment.",
