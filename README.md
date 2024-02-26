@@ -25,20 +25,20 @@ from pytest_in_robotframework import pytest_execute
 
 #usage with functions
 @pytest_execute
-def test_my_function:
+def test_my_function():
     assert  False
 
-def rf_keyword_2:
+def rf_keyword_2():
         print('Passed')
 
 #usage with methods 
 class TestMyWorld: 
 
-    @pytest_execute
+    @pytest_execute(self)
     def test_my_method:
         assert  True
 
-    def rf_keyword_1:
+    def rf_keyword_1(self):
         print('Passed')
 ```
 ## Real Example
