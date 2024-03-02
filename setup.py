@@ -18,6 +18,12 @@ classifiers=[
 'Programming Language :: Python :: 3',
 'License :: OSI Approved :: MIT License',
 'Operating System :: OS Independent',
+"Framework :: Pytest",
+"Framework :: Robot Framework",
+"Framework :: Robot Framework :: Library",
+"Framework :: Robot Framework :: Tool",
+"Topic :: Software Development :: Testing",
+"Topic :: Software Development :: Quality Assurance"
 ],
 python_requires='>=3.8',
 )
