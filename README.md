@@ -132,7 +132,7 @@ If this project has **saved you time or made your day easier, why not buy me a c
 🙏 **With your support**, I can dedicate more time to developing new features, improving existing tools, and creating new resources—**all in my free time after regular work**. Your donations not only inspire me to continue but also show me that this **tool has real users** who want me to keep improving and supporting it.
 
 You can also support me in the following ways:
-- Directly through **GitHub Sponsors**: [GitHub Sponsors](https://github.com/sponsors/petr-kus) (look for the heart on my profile).
+- Directly through **GitHub Sponsors** [GitHub Sponsors](https://github.com/sponsors/petr-kus) (or look for the heart on my profile).
 - ⭐ Add a star to this project.
 - 👀 Watch the project.
 - 📝 Leave bug reports or suggestions for new features.
