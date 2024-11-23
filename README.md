@@ -125,11 +125,11 @@ Sometimes Pytest is the appropriate choice, while at other times Robot Framework
 
 ## Support Me 💡
 
-If this project has saved you time or made your day easier, why not buy me a coffee? ☕ Every contribution helps me stay motivated and keep improving the tool for users like you!
+If this project has **saved you time or made your day easier, why not buy me a coffee?** ☕ Every contribution helps me **stay motivated** and keep improving the tool for users like you!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?logo=buymeacoffee&style=flat-square)](https://buymeacoffee.com/petrkus)
 
-🙏 **With your support**, I can dedicate more time to developing new features, improving existing tools, and creating new resources—all in my free time after regular work. Your donations not only inspire me to continue but also show me that this tool has real users who want me to keep improving and supporting it.
+🙏 **With your support**, I can dedicate more time to developing new features, improving existing tools, and creating new resources—**all in my free time after regular work**. Your donations not only inspire me to continue but also show me that this **tool has real users** who want me to keep improving and supporting it.
 
 You can also support me in the following ways:
 - Directly through **GitHub Sponsors**: [GitHub Sponsors](https://github.com/sponsors/petrkus) (look for the heart on my profile).
@@ -137,4 +137,4 @@ You can also support me in the following ways:
 - 👀 Watch the project.
 - 📝 Leave bug reports or suggestions for new features.
 
-💖 Thank you for considering supporting my work!
+💖 **Thank You** for considering supporting my work!
