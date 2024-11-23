@@ -109,19 +109,19 @@ The real example demonstrates the benefits of using a single Python instance. Th
 Sometimes Pytest is the appropriate choice, while at other times Robot Framework may be better suited. Now, you can seamlessly integrate both into a single Python instance with identical logging, minimal effort, and compatibility.
 
 ## Future planed Improvments 
- Enhance pytest logging experiance within Robot Framework (similar structure to pytest_robotframework / pytest-robotframework)
+- Enhance pytest logging experiance within Robot Framework (similar structure to pytest_robotframework / pytest-robotframework)
 
- Ensure compatibility with the Hypothesis package (property based testing addon for pytest).
+- Ensure compatibility with the Hypothesis package (property based testing addon for pytest).
 
- Add posibility to rename keyword for Robot Framework (RF supports this, but it may not currently work with Pytest)
+- Add posibility to rename keyword for Robot Framework (RF supports this, but it may not currently work with Pytest)
 
- Add the decorator parameters to pytest execution with user parameterization.
+- Add the decorator parameters to pytest execution with user parameterization.
 
- Introduce the ability to execute pytest in a separate process, providing added convenience for users.
+- Introduce the ability to execute pytest in a separate process, providing added convenience for users.
  
- Enable the transfer of parameters from Robot Framework to pytest execution, such as log levels.
+- Enable the transfer of parameters from Robot Framework to pytest execution, such as log levels.
  
- Are there any additional tips or suggestions you would like to share? Please feel free to let me know!
+- Are there any additional tips or suggestions you would like to share? Please feel free to let me know!
 
 ## Support Me 💡
 
